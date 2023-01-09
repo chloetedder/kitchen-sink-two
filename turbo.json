@@ -8,8 +8,7 @@
       ],
       "dependsOn": [
         "^build"
-      ],
-      "env": ["SOME_ENV_VAR"]
+      ]
     },
     "test": {
       "outputs": [
