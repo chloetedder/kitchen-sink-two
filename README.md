@@ -1,6 +1,6 @@
 # `turborepo` kitchen sink starter
 
-This is an official Yarn v1 starter Turborepo with multiple meta-frameworks all working in harmony and sharing packages.
+This is an official Yarn v1 starter Turborepo with multiple meta-frameworks all working in harmony and sharing package.
 
 ## What's inside?
 
