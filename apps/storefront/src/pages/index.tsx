@@ -8,7 +8,7 @@ export default function Store() {
       <h1>Store</h1>
       <CounterButton />
       <NewTabLink href="https://turborepo.org/">
-        Built With TurboRepo
+        Built With Turborepo
       </NewTabLink>
     </div>
   );
